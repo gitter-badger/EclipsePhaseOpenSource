@@ -1,6 +1,8 @@
 Greetings, English-speaking Firewall Sentinels and Proxies!
 =====
 
+[![Join the chat at https://gitter.im/EclipsePhaseOpenSource/Lobby](https://badges.gitter.im/EclipsePhaseOpenSource/Lobby.svg)](https://gitter.im/EclipsePhaseOpenSource/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Before we can have great character creators, we need to have great data.
 
 This repository will host files that are necessary for robust and helpful applications to make our favorite roleplaying game more immersive, less cumbersome, and faster to launch.
